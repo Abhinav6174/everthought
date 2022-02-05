@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #ffffff;
+    background-color: #202020;
+    font-family: Handlee;
+    letter-spacing: 0.1em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('https://1.bp.blogspot.com/-TEafUuqpP2g/YTIOvr_T2lI/AAAAAAAA7Fw/rJRYqb9iqZc5WbBtIdIF_OrGYBr5gvmAgCLcBGAsYHQ/s16000/bg.png');
+}
+
+.header-footer-image {
+    width: 100%;
+    height: 100%;
+    border-radius: 14px;
+}
+
+.container1 {
+    margin: 8px;
+}
+
+.app-container {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 24px;
+    font-size: 42px;
+    font-weight: bold;
+    border-radius: 14px;
+    margin: 14px;
+    margin-top: 24px;
+    vertical-align: middle;
+    background: inherit;
+}
+
+.tab-space {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.app-image {
+    width: 374px;
+    height: 664px;
+    border-radius: 14px;
+}
+
+.app-text {
+    padding-left: 100px;
+}
+
+.app-badge {
+    width: 323px;
+    height: 125px;
+}
+
+.think-image {
+    width: 626px;
+    height: 626px;
+    border-radius: 14px;
+    margin-right: 0px;
+}
+
+.ask-image {
+    width: 474px;
+    height: 528px;
+    border-radius: 14px;
+    float: left;
+}
+
+.ask-text {
+    padding-left: 100px;
+}
+
+.learn-image {
+    width: 530px;
+    height: 604px;
+    border-radius: 14px;
+    float: left;
+}
+
+.all-para {
+    font-size: 28px;
+}
