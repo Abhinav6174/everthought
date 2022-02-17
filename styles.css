@@ -27,7 +27,7 @@ body {
     background-color: #333333;
     color: #ffffff;
     padding: 24px;
-    font-size: 42px;
+    font-size: 52px;
     font-weight: bold;
     border-radius: 14px;
     margin: 14px;
@@ -60,8 +60,8 @@ body {
 }
 
 .think-image {
-    width: 626px;
-    height: 626px;
+    width: 25rem;
+    height: 25rem;
     border-radius: 14px;
     margin-right: 0px;
     -webkit-animation: mover 1s infinite alternate;
@@ -69,8 +69,8 @@ body {
 }
 
 .ask-image {
-    width: 474px;
-    height: 528px;
+    width: 25rem;
+    height: 25rem;
     border-radius: 14px;
     float: left;
     -webkit-animation: mover 2s infinite alternate;
@@ -82,8 +82,8 @@ body {
 }
 
 .learn-image {
-    width: 530px;
-    height: 604px;
+    width: 25rem;
+    height: 25rem;
     border-radius: 14px;
     float: left;
     -webkit-animation: mover 1s infinite alternate;
@@ -91,7 +91,7 @@ body {
 }
 
 .all-para {
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .innovation-container {
